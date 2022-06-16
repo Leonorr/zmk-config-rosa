@@ -9,7 +9,7 @@ readable layout and keymap definitions for use with @nickcoutsos' [keymap-editor
 
 * Navigate to the [keymap-editor](https://nickcoutsos.github.io/keymap-editor/) web app.
 * In the `Source` drop-down menu, select GitHub.
-* For the repository, input this repository's location: `pierrechevalier83/zmk-config-rosa`
+* For the repository, input this repository's location: `Leonorr/zmk-config-rosa`
 * For the branch, select `main`.
 * Modify the keymap as desired.
   * Refer to the [zmk documentation](https://zmk.dev/docs) for a description of the various [behaviours](https://zmk.dev/docs/behaviors/key-press) and [codes](https://zmk.dev/docs/codes).
@@ -26,4 +26,4 @@ readable layout and keymap definitions for use with @nickcoutsos' [keymap-editor
 
 For the keymap-editor to do its job, it will need write access to the github repo it's pointing at.
 
-If you want to use the keymap-editor for your Rosa keyboard and you are not this repository's author, please fork this repo first and substitute any reference to `pierrechevalier83` in the README with you own username.
+If you want to use the keymap-editor for your Rosa keyboard and you are not this repository's author, please fork this repo first and substitute any reference to `Leonorr` in the README with you own username.
