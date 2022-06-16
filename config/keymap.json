@@ -17,11 +17,11 @@
         "&kp LEFT_META",  "&kp Z",  "&kp X",     "&kp C",       "&kp V",   "&kp B",     "&kp N",           "&kp M", "&kp COMMA", "&kp DOT", "&kp FSLH",  "&kp LALT",
                                              "&lt 3 ESC", "&lt 1 SPACE", "&kp TAB", "&lt 5 RET", "&lt 2 BACKSPACE", "&lt 4 DEL"
     ], [
-       "&trans",        "&trans",   "&trans",    "&trans",    "&trans", "&trans",       "&trans",        "&trans",        "&trans",      "&trans",     "&trans", "&trans",
-       "&trans",        "&trans",   "&trans",    "&trans",    "&trans", "&trans",   "&kp K_REDO",   "&kp K_PASTE",    "&kp K_COPY",   "&kp K_CUT", "&kp K_UNDO", "&trans",
-       "&trans", "&kp LEFT_META", "&kp LALT", "&kp LCTRL", "&kp LSHFT", "&trans", "&kp CAPSLOCK",      "&kp LEFT",      "&kp DOWN",      "&kp UP",  "&kp RIGHT", "&trans",
-       "&trans",        "&trans",   "&trans",    "&trans",    "&trans", "&trans",   "&kp INSERT",      "&kp HOME", "&kp PAGE_DOWN", "&kp PAGE_UP",    "&kp END", "&trans",
-                                                 "&trans",     "&none", "&trans",    "&kp ENTER", "&kp BACKSPACE",       "&kp DEL"
+       "&trans",        "&trans",   "&trans",    "&trans",    "&trans",  "&trans",       "&trans",        "&trans",        "&trans",      "&trans",     "&trans", "&trans",
+       "&trans",        "&trans",   "&trans",    "&trans",    "&trans",  "&trans",   "&kp K_REDO",   "&kp K_PASTE",    "&kp K_COPY",   "&kp K_CUT", "&kp K_UNDO", "&trans",
+       "&trans", "&kp LEFT_META", "&kp LALT", "&kp LCTRL", "&kp LSHFT",  "&trans", "&kp CAPSLOCK",      "&kp LEFT",      "&kp DOWN",      "&kp UP",  "&kp RIGHT", "&trans",
+       "&trans",        "&trans",   "&trans",    "&trans",    "&trans",  "&trans",   "&kp INSERT",      "&kp HOME", "&kp PAGE_DOWN", "&kp PAGE_UP",    "&kp END", "&trans",
+                                                 "&trans",     "&none", "&kp TAB",    "&kp ENTER", "&kp BACKSPACE",       "&kp DEL"
     ], [
        "&trans",           "&trans",       "&trans",       "&trans",       "&trans",            "&trans", "&trans",         "&trans",           "&trans",       "&trans",        "&trans", "&trans",
        "&trans", "&kp LEFT_BRACKET", "&kp NUMBER_7", "&kp NUMBER_8", "&kp NUMBER_9", "&kp RIGHT_BRACKET", "&trans",         "&trans",           "&trans",       "&trans",        "&trans", "&trans",
