@@ -7,9 +7,7 @@
     "NAV",
     "NUM",
     "MEDIA",
-    "FUN",
-    "CUSTOM",
-    "SYM"
+    "FUN"
   ],
   "layers": [
     [
@@ -42,18 +40,6 @@
        "&trans", "&kp F11", "&kp F4",    "&kp F5",    "&kp F6",  "&kp SCROLLLOCK", "&trans", "&kp LSHFT", "&kp LCTRL", "&kp LEFT_ALT", "&kp LEFT_META", "&trans",
        "&trans", "&kp F10", "&kp F1",    "&kp F2",    "&kp F3", "&kp PAUSE_BREAK", "&trans",    "&trans",    "&trans",       "&trans",        "&trans", "&trans",
                                       "&kp K_APP", "&kp SPACE",         "&kp TAB", "&trans",    "&trans",     "&none"
-    ], [
-       "&trans",        "&trans",    "&trans",   "&trans",    "&trans", "&trans",    "&trans",        "&trans",  "&trans", "&trans", "&trans", "&trans",
-       "&trans",        "&trans",    "&trans",   "&trans",    "&trans", "&trans",    "&trans",        "&trans",  "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&kp LEFT_META", "&kp LCTRL", "&kp LALT", "&kp LSHFT", "&trans",    "&trans",        "&trans",  "&trans", "&trans", "&trans", "&trans",
-       "&trans",        "&trans",    "&trans",   "&trans",    "&trans", "&trans",    "&trans",        "&trans",  "&trans", "&trans", "&trans", "&trans",
-                                                 "&trans",    "&trans",  "&none", "&kp ENTER", "&kp BACKSPACE", "&kp DEL"
-    ], [
-       "&trans",    "&trans",   "&trans",    "&trans",    "&trans",    "&trans", "&trans",    "&trans",    "&trans",       "&trans",        "&trans", "&trans",
-       "&trans",  "&kp LBRC", "&kp AMPS", "&kp ASTRK",  "&kp LPAR",  "&kp RBRC", "&trans",    "&trans",    "&trans",       "&trans",        "&trans", "&trans",
-       "&trans", "&kp COLON", "&kp DLLR", "&kp PRCNT", "&kp CARET",  "&kp PLUS", "&trans", "&kp LSHFT", "&kp LCTRL", "&kp LEFT_ALT", "&kp LEFT_META", "&trans",
-       "&trans", "&kp TILDE", "&kp EXCL",    "&kp AT",  "&kp HASH",  "&kp PIPE", "&trans",    "&trans",    "&trans",       "&trans",        "&trans", "&trans",
-                                           "&kp LPAR",  "&kp RPAR", "&kp UNDER",  "&none",    "&trans",    "&trans"
     ]
   ]
 }
