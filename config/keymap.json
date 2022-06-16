@@ -23,7 +23,7 @@
        "&trans",        "&trans",   "&trans",    "&trans",    "&trans",  "&trans",   "&kp INSERT",      "&kp HOME", "&kp PAGE_DOWN", "&kp PAGE_UP",    "&kp END", "&trans",
                                                  "&trans",     "&none", "&kp TAB",    "&kp ENTER", "&kp BACKSPACE",       "&kp DEL"
     ], [
-       "&trans",           "&trans",       "&trans",       "&trans",       "&trans",            "&trans", "&trans",         "&trans",           "&trans",       "&trans",        "&trans", "&trans",
+       "&trans",           "&trans",       "&trans",     "&kp HASH",       "&trans",            "&trans", "&trans",         "&trans",           "&trans",       "&trans",        "&trans", "&trans",
        "&trans", "&kp LEFT_BRACKET", "&kp NUMBER_7", "&kp NUMBER_8", "&kp NUMBER_9", "&kp RIGHT_BRACKET", "&trans",         "&trans",           "&trans",       "&trans",        "&trans", "&trans",
        "&trans",         "&kp SEMI", "&kp NUMBER_4", "&kp NUMBER_5", "&kp NUMBER_6",         "&kp EQUAL", "&trans", "&kp LEFT_SHIFT", "&kp LEFT_CONTROL", "&kp LEFT_ALT", "&kp LEFT_META", "&trans",
        "&trans",        "&kp GRAVE", "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3",     "&kp BACKSLASH", "&trans",         "&trans",           "&trans",       "&trans",        "&trans", "&trans",
